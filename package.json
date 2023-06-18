@@ -1,0 +1,22 @@
+{
+  "name": "colora-theme",
+  "displayName": "colora-theme",
+  "description": "visually appealing and accessible theme for individuals with color vision deficiency(protanomaly and deuteranomaly)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./images/theme-logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "colora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/colora-color-theme.json"
+      }
+    ]
+  }
+}
