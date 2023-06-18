@@ -9,7 +9,12 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshika07/colora-theme"
+  },
   "icon": "./images/theme-logo.png",
+  "license": "GPL-3.0",
   "contributes": {
     "themes": [
       {
